@@ -1,0 +1,3 @@
+from .historias_clinicasSerializers import HistoriasClinicasSerializer
+from .usuarios_medicosSerializers import UsuariosMedicosSerializer
+from .pacientesSerializers import PacientesSerializer

@@ -1,0 +1,4 @@
+from .userCreateView import UserCreateView
+from .userDetailView import UserDetailView
+from .historia_clinicaCreateView import Historias_clinicasCreateView 
+from .historia_clinicaDetailView import HistoriaClinicaDetailView ,HistoriaRetrieveUpdateDestroy
